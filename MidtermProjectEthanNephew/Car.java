@@ -22,3 +22,5 @@ public class Car extends Vehicle implements Runnable{
     }
 
 }
+
+// I made some changes here. 
